@@ -1,6 +1,6 @@
-crowdsourcing
-=============
+CSP - Crowdsourcing Platform
+============================
 
-A platform to explore the benefits from the combination of crowd-sourcing and gamification 
+A platform for exploring the posibilities of using crowdsourcing(along with Gamification) within an organisation.
 
-The power of this combination could change the way the organizations operate. This is a small attempt to prove it.
+The power of this combination(Crowdsourcing + Gamification) could change the way the organizations operate. This is a small attempt to prove it.
